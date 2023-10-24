@@ -33,6 +33,8 @@ print(round(media_provas, 2))
 
 media_geral = media_provas + nota_final_atividade
 
+# Se a média geral seja maior igual a 5, o aluno passa. Caso seja menor que 5 porém maior igual a 3, o aluno fará P3. Em caso de média menor que 3, o aluno está reprovado.
+
 if media_geral >= 5:
     print("\nA sua média geral foi:")
     print(round(media_geral, 2))

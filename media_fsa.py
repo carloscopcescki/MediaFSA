@@ -15,7 +15,7 @@ while repetidor == "s":
 
   i = quantidade_atividade
   while i:
-    nota = int(input("Digite a nota: "))
+    nota = float(input("Digite a nota: "))
     nota_atividade.append(nota)
     i -= 1
 

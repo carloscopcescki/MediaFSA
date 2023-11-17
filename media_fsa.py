@@ -10,7 +10,7 @@ repetidor = "s"
 while repetidor == "s":
   
   print("Programa Média Aritmética - FSA")
-  
+
   # Calcula a nota de atividade
   
   total_at = float(input("\nDigite a sua nota de atividade: "))

@@ -31,7 +31,7 @@ while repetidor == "s":
 
   media_geral = media_provas + nota_atividade
 
-# Se a média geral seja maior igual a 5, o aluno passa. Caso seja menor que 5 porém maior igual a 3, o aluno fará P3. Em caso de média menor que 3, o aluno está reprovado.
+# Se a média geral seja maior igual a 4.8, o aluno passa. Caso seja menor que 4.8 porém maior igual a 3, o aluno fará P3. Em caso de média menor que 3, o aluno está reprovado.
 
   if media_geral >= 4.8:
     print("\nA sua média geral foi:")

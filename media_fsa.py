@@ -4,11 +4,11 @@ import os
 
 def calcular_nota_atividade(total_at):
     return total_at * 0.2
-  
+
 repetidor = "s"
 
 while repetidor == "s":
-  
+
   print("Programa Média Aritmética - FSA")
 
   # Calcula a nota de atividade

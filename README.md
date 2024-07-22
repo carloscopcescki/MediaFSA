@@ -12,6 +12,7 @@ Com o auxilio da biblioteca Tkinter, também foi desenvolvido uma calculadora ar
 # Ferramentas utilizadas
 
 - Tkinter
+- Math
 
 # Autores
 

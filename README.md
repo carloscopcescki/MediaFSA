@@ -2,4 +2,13 @@
 
 # Sobre o projeto
 
-Código que calcula a média aritmética de notas da faculdade Fundação Santo André
+Código desenvolvido para calcular a média aritmética de notas da faculdade Fundação Santo André.
+Com o auxilio da biblioteca Tkinter, também foi desenvolvido uma calculadora aritmética em interface gráfica.
+
+# Ferramentas utilizadas
+
+- Tkinter
+
+# Autores
+
+- Carlos Daniel

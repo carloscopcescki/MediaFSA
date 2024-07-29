@@ -9,6 +9,7 @@ while repetidor == "s":
   # Calcula a nota de atividade
 
   def calcular_nota_atividade():
+    """Função para realizar o cálculo de média de atividade"""
     while True:
       try:
         total_at = float(input("\nDigite a sua nota de atividade: "))
@@ -23,6 +24,7 @@ while repetidor == "s":
 # Calcula a média de provas
 
   def calcular_nota_p1():
+    """Função para realizar o cálculo de média de P1"""
     while True:
       try:       
         nota_p1 = float(input("\nDigite a nota da P1: "))
@@ -31,6 +33,7 @@ while repetidor == "s":
         print("\nValor inválido! Tente novamente")
         
   def calcular_nota_p2():
+    """Função para realizar o cálculo de média de P2"""
     while True:
       try:       
         nota_p2 = float(input("\nDigite a nota da P2: "))
@@ -63,6 +66,7 @@ while repetidor == "s":
     # Calculo de P3
     
     def calcular_nota_pf():
+      """Função para realizar o cálculo de média de Prova Final"""
       while True:
         try: 
           nota_p3 = float(input("\nDigite a nota da P3: "))

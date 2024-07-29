@@ -42,6 +42,7 @@ label_p3 = ttk.Label(frame, text="Digite a nota da P3:")
 label_p3.grid(column=1, row=3)
 
 def media_geral():
+    """Função para realizar o cálculo de média aritmética"""
     try:
         n1 = float(nota_p1.get())
         n2 = float(nota_p2.get())
